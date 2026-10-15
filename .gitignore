@@ -1,0 +1,9 @@
+*.csv
+*.xlsx
+*.xls
+*.bak
+data/
+output/
+.DS_Store
+__pycache__/
+.venv/
